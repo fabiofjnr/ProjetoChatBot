@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/fabiofjnr/ProjetoChatBot/ginistudio.png" alt="GiniStudio"/>
+  <img src="https://github.com/fabiofjnr/ProjetoChatBot/blob/master/ginistudio.png" alt="GiniStudio"/>
 </p>
 
 <p align="center">
